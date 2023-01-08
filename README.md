@@ -1,10 +1,8 @@
 **INFORMACION DEL PROYECTO**
 
-* Nombre completo del proyecto: *Contacts CRUD*
-* Número de proyecto: *2*
-* Framework usado: *Flask*
-* Motor de plantillas: *Jinja*
-* Version de Maria DB: *10.4.14*
+* Nombre completo del proyecto: *CRUD Products*
+* Número de proyecto: *1*
+* Version de Mongo DB: *10.4.14*
 
 ---
 
@@ -17,9 +15,6 @@
 ---
 
 #### IMPORTANTE
-
-1. Desde el minuto [45:20](https://www.youtube.com/watch?v=ld9U9WeYVB0&t=2720s), se comienza a explicar en el video como 
-   desplegar nuestro proyecto en Heroku
 
 2. Debemos tener instalado "pip 3" de "python 3", de acuerdo al sistema
    operativo donde nos encontremos
