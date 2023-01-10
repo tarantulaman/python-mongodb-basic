@@ -2,7 +2,7 @@
 
 * Nombre completo del proyecto: *CRUD Products*
 * Número de proyecto: *1*
-* Version de Mongo DB: *10.4.14*
+* Version de Mongo DB: *5.0.14*
 
 ---
 
@@ -34,7 +34,7 @@
    no localhost, ya que da errores, si la base de datos es Mysql no
    da ningun problema
 
-*En el caso que exista dudas sobre el proyecto ver el siguiente tutorial: [Tu primer Página Web con Python3 - #1](https://youtu.be/ld9U9WeYVB0)*
+*En el caso que exista dudas sobre el proyecto ver el siguiente tutorial: [PyMongo, Python & Mongodb - #1](https://youtu.be/QRu2B0xQf04)*
 
 ---
 
